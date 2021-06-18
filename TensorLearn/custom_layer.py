@@ -22,5 +22,3 @@ from tensorflow.keras.datasets import fashion_mnist
 sys.path.append("../")
 from ml_utils import *
 restrict_gpu_mem(7000)
-
-0
